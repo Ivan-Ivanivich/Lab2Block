@@ -8,9 +8,9 @@ namespace Lab2Block
 {
     class Program
     {
-        private string name;
-        private int surname;
-        private System.DateTime dataofbirth;
+        //private string name;
+        //private int surname;
+        //private System.DateTime dataofbirth;
 
 
 
@@ -21,7 +21,8 @@ namespace Lab2Block
 
         static void Main(string[] args)
         {
-
+            Person p = new Person();
+            p.name = "1111";
 
 
         }
