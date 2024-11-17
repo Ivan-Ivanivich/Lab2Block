@@ -9,7 +9,7 @@ namespace Lab2Block
 {
     internal class Person
     {
-        private string name123;//123-
+        private string name;
         private string surname;
         private DateTime dataofbirth;
 
