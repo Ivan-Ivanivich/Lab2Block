@@ -21,8 +21,9 @@ namespace Lab2Block
 
         static void Main(string[] args)
         {
-            Person p = new Person();
-            p.name = "1111";
+            // Person p = new Person();
+            //p.name = "1111";   хз что это вроде было как пример 
+
 
 
         }
