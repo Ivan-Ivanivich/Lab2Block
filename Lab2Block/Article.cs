@@ -19,8 +19,8 @@ namespace Lab2Block
             this.rating = rating;
 
         }
-        
-        public Person () //⦁	конструктор без параметров, инициализирующий все свойства класса некоторыми значениями по умолчанию;
+
+        public Person() //⦁	конструктор без параметров, инициализирующий все свойства класса некоторыми значениями по умолчанию;
         {
 
             persone = new Persone();
@@ -28,7 +28,7 @@ namespace Lab2Block
             rating = 9.4;
         }
 
-        
+
         public string ToFullString() //⦁	метод string ToFullString() для формирования строки со значениями всех свойств класса.
         {
 
