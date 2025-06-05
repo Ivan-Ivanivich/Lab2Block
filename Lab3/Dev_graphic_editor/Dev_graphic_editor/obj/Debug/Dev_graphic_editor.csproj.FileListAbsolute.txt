@@ -1,0 +1,10 @@
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\bin\Debug\Dev_graphic_editor.exe.config
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\bin\Debug\Dev_graphic_editor.exe
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\bin\Debug\Dev_graphic_editor.pdb
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.csproj.AssemblyReference.cache
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.Form1.resources
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.Properties.Resources.resources
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.csproj.GenerateResource.cache
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.csproj.CoreCompileInputs.cache
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.exe
+D:\dev c#\Lab3\Dev_graphic_editor\Dev_graphic_editor\obj\Debug\Dev_graphic_editor.pdb
